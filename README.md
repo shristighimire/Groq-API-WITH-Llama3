@@ -44,14 +44,4 @@ FEEL FREE TO FORK THE REPOSITORY AND SUBMIT PULL REQUESTS FOR ANY IMPROVEMENTS O
 LICENSE
 THIS PROJECT IS OPEN SOURCE AND AVAILABLE UNDER THE MIT LICENSE.
 
-markdown
-Copy code
 
----
-
-### Explanation of Headers:
-- `# OVERVIEW`, `# FEATURES`, `# PROJECT STRUCTURE`, `# INSTALLATION`, `# USAGE`, `# CONTRIBUTING`, and `# LICENSE` are the main sections with level 1 headers (`#`).
-- The subsections within "INSTALLATION" (`CLONE THE REPOSITORY` and `INSTALL THE REQUIRED DEPENDENCIES`) use level 2 headers (`##`).
-- The subsections within "USAGE" (`USING THE JUPYTER NOTEBOOK` and `USING THE PYTHON SCRIPT`) also use level 2 headers (`##`).
-
-Let me know if you need any adjustments!
